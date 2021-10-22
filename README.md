@@ -1,2 +1,2 @@
-# movie-store
-management system for a movie store in c++
+# movie-app
+Node js application that allows users to search for movies and series.
