@@ -25,7 +25,7 @@ app.get("/", function(req,res){
 
 app.get("/movies", function(req, res){
     
-    //access data from the query string
+    //access data from the query string 
     var searchedMovie = req.query.searchValue;
     var yearRelease = req.query.yearValue
     
